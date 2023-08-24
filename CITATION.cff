@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Common agri-food units and their UCUM codes
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - name: Agri-food Data Canada
+    location: '50 Stone Road East, University of Guelph'
+    post-code: N1G 2W1
+    country: CA
+    city: Gueph
+    email: adc@uoguelph.ca
+    website: 'https://agrifooddatacanada.ca'
+    tel: (226) 971-0357
+repository-code: 'https://github.com/agrifooddatacanada/UCUM_agri-food_units'
+abstract: >-
+  A table of Unified Code for Units of Measure (UCUM) units
+  commonly used in agri-food research which helps with data
+  documentation and interoperability.
+keywords:
+  - Units
+  - agri-food
+  - Unified Code for Units of Measure
+  - UCUM
+license: CC-BY-4.0
+commit: bfef4109d2c4326bd0dc635237bb13ed5c5b346e
+version: '0.1'
