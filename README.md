@@ -3,23 +3,19 @@ A table of [Unified Code for Units of Measure (UCUM)](https://ucum.org/) units c
 
 # The Significance of standardized unit documentation in agri-food research
 
-In the realm of agri-food research, proper unit documentation stands as a cornerstone of this pursuit. Similar to the infamous NASA Mars Climate Orbiter incident, where conflicting units led to disaster, the agri-food sector faces its own unit-related challenges. These challenges, if unaddressed, can impede progress and render research findings unreliable.
+In agri-food research it is necessary to have proper unit documentation for reproducibility and data interoperability. The infamous NASA Mars Climate Orbiter incident, where conflicting units led to expensive disaster, demonstrates the importance of proper unit documentation.
 
 # The need for standardization
 
-Agri-food research involves a diverse array of data, from crop yields to soil properties, driving advancements in sustainability and nutrition. However, the absence or misuse of units can undermine the very essence of this data. A temperature reading without specified units can distort outcomes. Achieving consensus on unit documentation is essential for seamless collaboration, as inconsistent units across contexts can hinder effective communication and hinder cross-disciplinary insights.
-
-# UCUM: A solution for clarity
-
-The [Unified Code for Units of Measure (UCUM)](https://ucum.org/), is a standardized unit documentation system that goes beyond mere representation. UCUM's strength lies in its capacity to render units understandable to machines. Unlike human interpretation, which can be prone to errors, UCUM's systematic approach employs codes to eliminate ambiguity.
+Agri-food research involves a diverse array of data. However, the absence or misuse of units can undermine the value of this data. For example, A temperature reading without specified units is not useful. Achieving consensus on unit documentation is essential for  collaboration, as inconsistent units across contexts can hinder effective communication and hinder cross-disciplinary insights.
 
 # Machine-actionable units with UCUM
 
-UCUM's true innovation lies in its ability to make units machine-actionable. By providing uniquely identifiable codes for each unit, UCUM enables computers to accurately process and interpret unit data. This standardization ensures consistency in data analysis, essential for tackling global challenges like climate change and food security.
+The [Unified Code for Units of Measure (UCUM)](https://ucum.org/), is a standardized unit documentation system that goes beyond mere representation. UCUM's strength lies in its capacity to render units understandable to machines. Unlike human interpretation, which can be prone to errors, UCUM's systematic approach employs codes to eliminate ambiguity.
 
 # UCUM unit annotation supports FAIR data
 
-In the pursuit of making agri-food research more Findable, Accessible, Interoperable, and Reusable (FAIR), the adoption of UCUM aligns seamlessly with the FAIR principles. By providing a consistent and machine-readable format for unit representation, UCUM enhances the findability and accessibility of data, ensuring that researchers from different disciplines and regions can effectively collaborate. Moreover, UCUM's unambiguous units enable data interoperability, facilitating data exchange and reuse, both essential components of the FAIR framework.
+The adoption of UCUM aligns with the FAIR principles, that data should be Findable, Accessible, Interoperable, and Reusable. By providing a consistent and machine-readable format for unit representation, UCUM enhances the findability and accessibility of data, ensuring that researchers from different disciplines and regions can effectively collaborate. Moreover, UCUM's unambiguous units enable data interoperability, facilitating data exchange and reuse, both essential components of the FAIR framework.
 
 # A table of common agri-food UCUM terms
 
