@@ -5,7 +5,7 @@ A table of [Unified Code for Units of Measure (UCUM)](https://ucum.org/) units c
 
 In agri-food research it is necessary to have proper unit documentation for reproducibility and data interoperability. The infamous NASA Mars Climate Orbiter incident, where conflicting units led to expensive disaster, demonstrates the importance of proper unit documentation.
 
-Agri-food research involves a diverse array of data where the absence or misuse of units can undermine the value of this data. For example, A temperature reading without specified units is not useful. Consistent unit documentation is essential for collaboration, as inconsistent units can hinder effective communication and cross-disciplinary insights.
+Agri-food research involves a diverse array of data where the absence or misuse of units can undermine the value of this data. For example, a temperature reading without specified units is not useful. Consistent unit documentation is essential for collaboration, as inconsistent units can hinder effective communication and cross-disciplinary insights.
 
 # Machine-actionable units with UCUM
 
