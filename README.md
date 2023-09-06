@@ -1,13 +1,11 @@
 # UCUM agri-food units
 A table of [Unified Code for Units of Measure (UCUM)](https://ucum.org/) units commonly used in agri-food research which helps with data documentation and interoperability.
 
-# The Significance of standardized unit documentation in agri-food research
+# The need for standardization in agri-food units
 
 In agri-food research it is necessary to have proper unit documentation for reproducibility and data interoperability. The infamous NASA Mars Climate Orbiter incident, where conflicting units led to expensive disaster, demonstrates the importance of proper unit documentation.
 
-# The need for standardization
-
-Agri-food research involves a diverse array of data. However, the absence or misuse of units can undermine the value of this data. For example, A temperature reading without specified units is not useful. Achieving consensus on unit documentation is essential for  collaboration, as inconsistent units across contexts can hinder effective communication and hinder cross-disciplinary insights.
+Agri-food research involves a diverse array of data where the absence or misuse of units can undermine the value of this data. For example, A temperature reading without specified units is not useful. Consistent unit documentation is essential for collaboration, as inconsistent units can hinder effective communication and cross-disciplinary insights.
 
 # Machine-actionable units with UCUM
 
