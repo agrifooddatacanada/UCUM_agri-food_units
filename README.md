@@ -1,4 +1,4 @@
-# UCUM_agri-food_units
+# UCUM agri-food units
 A table of [Unified Code for Units of Measure (UCUM)](https://ucum.org/) units commonly used in agri-food research which helps with data documentation and interoperability.
 
 # The Significance of standardized unit documentation in agri-food research
