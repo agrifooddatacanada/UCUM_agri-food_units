@@ -1,0 +1,980 @@
+﻿Value,Label,Description
+[acr_br],British acre,"A unit of land area measurement, commonly used in the United Kingdom and some other Commonwealth countries"
+[acr_us],American acre,"A unit of land area measurement, widely used in the United States of America for land transactions"
+har,Hectare or hectoare,"A metric unit of land area measurement, commonly used worldwide for large land areas in agriculture and planning"
+ar,100 m2 (are),"A metric unit of land area measurement, less common but used used historically in European countries for measuring land"
+[bu_us],bushel,"A unit of volume or weight used to measure agricultural commodities, primparly dry goods, fruits, and vegetables"
+kg/har,kilogram/hectare,A measure of the total weight in kilograms of a specific crop or agricultural product harvested from a one-hectare area of land
+[hd_i],hand (height of horse),A unit of measurement for the horse's height at the highest point of the horse's back to the hooves
+osm,osmole (amount of dissolved particles),An osmole is a unit of measurement used quantify the number of osmotically active particle or solute particles in solution
+Cel,degrees celcius ,A unit of measurement used to express temperature in the metric system
+[degF],degrees farenheit,A unit of temperature measurement commonly used in the United States of America
+[degR],degree Rankine,A unit of temperature measurement in the absolute temperature scale
+[degRe],degree Reaumur,A unit of temperature measurement expressed as a positive or negative value relative to reference points
+cal_[15],calorie at 15 degree celsius,Representing the amount of energy required to raise the temperature of 1 gram of water by 1 degree celsius. Approximately equal to 4.184 joules. This is the standard unit for calories
+cal_m,mean calorie,Measurement for energy used in nutrition and represents the energy required to raise the temperature of 1 kilogram of water by 1 degree Celsius
+cal_IT,internation table calorie,"Synonymous with the ""mean calorie"""
+cal_th,thermochemical calorie,Unit of energy associated with chemical reactions or thermal processes which is commonly used in thermodynamics
+cal,calorie,A unit of energy required to raise the temperature of 1 gram of water by 1 degree celsius
+[Btu_39],British thermal unit at 39 degrees F,Unit of energy for measuring heating and cooling energy. It is specific to the energy content of substance at 39 degrees Fahrenheit
+[Btu_59],British thermal unit at 59 degrees F,Unit of energy for measuring heating and cooling energy. It is specific to the energy content of substance at 59 degrees Fahrenheit
+[Btu_60],British thermal unit at 60 degrees F,Unit of energy for measuring heating and cooling energy. It is specific to the energy content of substance at 60 degrees Fahrenheit
+[Btu_m],mean British thermal unit,Representing the amount of energy required to raise the temperature of 1pound of water by one degree Farenheit when the intial and final temperatures vary
+[Btu_IT],international table British thermal unit,Unit of energy measurement that represents the amount of energy require to raise the temperature of 1 pound of water
+[dpt_us],US dry pint,Unit of volume measurement used in the United States to quantify the volume of dry goods
+[bbl_us],US barrel,Unit of volume measurment used in the United States for measuring the capacity of liquid or dy substances
+[qt_us],US quart,Unit of volume measurement used in the United States to quantify volume of both liquid and dry substances
+[pt_us],US pint,Unit of volume measurement in the United States
+[gil_us],US gill,Unit of volume measurement that was traditionally used in the United States 
+[foz_us],US fluid ounce,Unit of volume measurement in the United States
+[fdr_us],US fluid dram,Unit of volume measurement in the United States
+[min_us],US minim,Unit of volume measurement typically used in pharmacy and medicine
+[crd_us],US cord,Unit of volume used to quantify a stack of wood logs
+[gal_wi],US historical winchester gallon,"A historical unit of volume measurement use for grain, and produce"
+[pk_us],US peck,"A historical unit of volume measurement use for grain, and produce"
+[dqt_us],US dry quart,Unit of volume measurement in the United States
+[tbs_us],US tablespoon,Unit of volume measurement in the United States
+[tsp_us],US teaspoon,Unit of volume measurement in the United States
+[cup_us],US cup,Unit of volume measurement in the United States
+[foz_m],metric fluid ounce,Unit of volume measurement used in some countries
+[cup_m],metric cup,Unit of volume measurement used in some countries
+[tsp_m],metric teaspoon,Unit of volume measurement used in some countries
+[tbs_us],metric tablespoon,Unit of volume measurement used in some countries
+[gal_us],US Queen Anne's wine gallon,A historical unit of volume measurement 
+[gal_br],British gallon,Unit of volume measurement in the United Kingdom
+[pk_br],British peck,Unit of volume measurement in the United Kingdom
+[bu_br],British bushel,Unit of volume measurement in the United Kingdom
+[qt_br],British quart,Unit of volume measurement in the United Kingdom
+[pt_br],British pint,Unit of volume measurement in the United Kingdom
+[gil_br],British gill,Unit of volume measurement in the United Kingdom
+[foz_br],British fluid ounce,Unit of volume measurement in the United Kingdom
+[fdr_br],British fluid dram,Unit of volume measurement in the United Kingdom
+[min_br],British minim,Unit of volume measurement in the United Kingdom
+[gr],grain,Unit of mass 
+[lb_av],pound,Unit of mass 
+[oz_av],ounce,Unit of mass 
+[dr_av],dram,Unit of mass traditionally used in field of pharmacology or medicine
+[scwt_av],US hundredweight,Unit of mass used in the Untited States
+[lcwt_av],British hunderweight,Unit of mass used in the United Kingdom
+[ston_av],US ton,Unit of mass used in the United States
+[lton_av],British ton,Unit of mass used in the United Kingdom
+[stone_av],British stone,Unit of mass used in the United Kingdom
+hm,hectometer,Unit of length
+hL,hectolitre,Unit of volume
+[fur_us],furlong,Unit of length
+[rd_us],rod,Unit of length
+[lk_us],link,Unit of length
+[gil_us],gill,Unit of volume
+[gr],grain,Unit mass
+[pk_us],Peck,Unit of volume
+[bbl_us],barrel,Unit of volume
+[crd_us],cord,Unit of volume
+[fdr_us],fluid dram,Unit of volume
+[min_us],minim,Unit of volume
+kg,kilogram,SI unit for mass
+g,gram,Unit of mass
+mg,milligram,Unit of mass
+ug,microgram,Unit of mass
+ng,nanogram,Unit of mass
+pg,picogram,Unit of mass
+mg/kg,milligram per kilogram,Unit of concentration or dosage commonly used in the field of medicine and toxicology to express the quantity of substance in a particular context
+ug/kg,microgram per kilogram,"Unit of concentration or dosage. It represents the number of micrograms (one millionth of a gram) of a substance present within every kilogram (one thousand grams) of a given material, such as body weight or a sample"
+mg/m2,milligram per square metre,Unit of surface or areal density that measures the mass of a substance distributed over one square meter
+ug/m2,microgram per square metre,Unit of surface or areal density that measures the mass of a substance distributed over one square meter
+L,litre,SI unit for volume
+mL,millilitre,Unit of volume
+uL,microlitre,Unit of volume
+Bq,Becquerel,SI unit of radioactivity
+GBq,gigabecquerel,Becquerel on the order of 10^9
+MBq,megabecquerel,Becquerel on the order of 10^6
+kBq,killobecquerel,Becquerel on the order of 10^3
+Ci,curie,Unit of radioactivity non SI 
+mCi,millicurie,Curie on the order of 10^(-3)
+uCi,microcurie,Curie on the order of 10^(-6)
+nCi,nanocurie,Curie on the order of 10^(-9)
+mol,mole,SI unit used to quantify the amount of a substance
+mmol,millimole,Mole on the order of 10^(-3)
+umol,micromole,Mole on the order of 10^(-6)
+[iU],international unit,Unit to quantify the biological activity or potency of substances
+k[iU],kilo-international unit,International unit on the order of 10^(3)
+M[iU],mega-international unit,International unit on the order of 10^(6)
+[iU]/kg,international unit per kilogram,Unit of concentration or dosage 
+meq,milliequivalent,Unit of measurement used to express the chemical equivalent of ions or molecules in solution
+%,% percent,Fractional representation normalized by 100
+[drp],drop (1/12 millilitre),Unit of volume
+{DF},dosage form,Specification of physical form of medication or pharmaceutical product
+[dye'U],Dye unit,
+%{Hb},percent hemoglobin,Measurement of specific hemoglobin as a percentage of the total hemoglobin in a blood sample
+%{RBCs},percent of red blood cells,Proportion of red blood cells in a blood sample
+%{WBCs},percent of white blood cells,Proportion of white blood cells in a blood sample 
+%{abnormal},percent abnormal,Generally implies the percentage of something that is considered unexpected
+%{activity},percent activity,"Generally implies the percentage of physical, enzymatic, or radioactive activity"
+%{aggregation},percent aggregation,Generally quantifies the extent of collective assembly 
+%{at_60_min},percent at 60 minute,Measurement expressed as a percentage after a specific duration of 60 minutes 
+%{bacteria},percent of bacteria,Proportion of bacteria in a sample
+%{basal_activity},percent basal activity,Level of activity of a biological or chemical process in relation to its resting state
+%{baseline},percent of baseline,Value relative to initial starting point
+%{binding},percent binding,Describes the extent to which molecules bind to specific receptors
+%{blockade},percent blockade,Describes the degree to which a pathway is inhibitited or blocked by an intervention
+%{blocked},percent blocked,Referes to the percentage of something that has been obstructed
+%{bound},percent bound,Describes the proportion of molecules that have successfully bound to specifc target molecules
+%{breakdown},percent breakdown,Distribution of something into different categories
+%{cells},percent of cells,Describes the proportion of a type of cell wihtin a larger sample of cells
+%{deficient},percent deficient,Refers to the proportion of individuals that are lacking a particular quality
+%{dose},percent dose,Expresses the fraction of percentage of a prescribed dosage of treatment that has been administered
+%{excretion},percent excretion,Expresses the fraction of percentage of a substance that has been expelled from the body 
+%{hemolysis},percent hemolysis,Used to assess the degree of red blood cell lysis in a sample
+%{index},percent index,Broad term that describes percentage related to an index 
+%{inhibition},percent inhibition,Quantifies the extent to which a substance suppresses biological activity
+%{loss_AChR},percent  loss of acetylcholine receptor,Referes to the precentage reduction in the number of acetylcholine receptors in a biological system compared to baseline
+%{loss},percent loss,Quantifies the reduction in a parameter expressed as a percentage of the initial amount
+%{lysis},percent lysis,Quantifies the degree to which cells have ruptured
+%{normal},percent normal,Proportion of entities that meet a certain criteria
+%{penetration},percent  penetration,Extent to which a substance has permeated a barrier
+%{pooled_plasma},percent normal pooled plasma,Proportion of a specific factor in a pooled sample of plasma compared to the concentration of the same factor in a normal plasma sample
+%{positive},percent positive,Proportion of positive outcomes wihtin a given data set
+%{reactive},percent reactive,Measurement used to describe the percentage of specific group that responds in a particular way to stimulus
+%{recovery},percent recovery,Percentage of a substance that has been successfully regained relative to initial value
+%{reference},percent reference,Refers to the percentage of value relative to a baseline value
+%{relative},relative percent,Refers to the percentage of value relative to a baseline value
+%{residual},percent residual,Percentage of something that remains 
+%{saturation},percent saturation,Expresses the extrent to which a substance or solution is filled with another substance
+%{total},percent total,Expresses the proportion of a specific component relative to the whole dataset
+%{uptake},percent uptake,Percentage of absorbed substance taken up by a specific system in relation to the total available amount
+%{viable},percent viable,Percentage of living viable entities within a larger group
+%{vol},percent by volume,Concentration of one substance in a mixture relative to the total volume of the mixture
+/(12.h),per twelve hour,Indicates an action occuring every twelve hours
+/10*10,per 10 billion,Rate relative to 10 billion units
+/10*12,per trillion,Rate relative to 1 trillion units
+/10*12{RBCs},per trillion red blood cells,Rate relavtive to 1 trillion red blood cells
+/10*3,per thousand,Rate relative to 1 thousand untis
+/10*3{RBCs},per thousand red blood cells,Rate relative to 1 thousand blood cells
+/10*4{RBCs},per 10 thousand red blood cells,Rate relative to 10 thousand red blood cells
+/10*6,per million,Rate relative to 1 million units
+/10*9,per billion,Rate relative to 1 billion units
+/100,per 100,Rate relative to 100 units
+/100{WBCs},per 100 white blood cells,Rate relative to 100 white blood cells
+/100{cells},per 100 cells,Rate relative to 100 cells
+/100{neutrophils},per 100 neutrophils,Rate relative to 100 neutrophils
+/100{spermatozoa},per 100 spermatozoa,Rate relative to 100 spermatozoa
+/L,per litre,Rate relative to the SI unit for volume
+/U,per enzyme unit,Rate relative to 1 enzyme+D151 unit
+/[HPF],per high power field,Rate relative to high
+/[LPF],per low power field,"Rate relative to a high power field, often used in microscopy"
+/[arb'U],per arbitrary unit,Rate relative to some unit
+/[iU],per international unit,Rate relative to 1 international unit
+/a,per year,Rate of time relative to one year
+/cm[H2O],per centimetre of water,Rate relative to one centimeter of water
+/d,per day,Rate of time relative to one day
+/dL,per decilitre,Rate relative to 1 decilitre 
+/g,per gram,Rate relative to 1 gram
+/g{Hb},per gram of hemoglobin,Rate relative to 1 gram of hemoglobin
+/g{creat},per gram of creatinine,Rate relative to 1 gram of creatinine
+/g{tot_nit},per gram of total nitrogen,Rate relative to 1 gram of total nitrogen
+/g{tot_prot},per gram of total protein,Rate relative to 1 gram of total protein
+/g{wet_tis},per gram of wet tissue,Rate relative to 1 gram of wet tissue
+/h,per hour,Rate of time relative to 1 hour
+/kg,per kilogram,Rate relative to SI unit for mass
+/kg{body_wt},per kilogram of body weight,Rate relative to the mass of one's body 
+/m2,per square metre,Rate relative to the area of 1 square metre
+/m3,per cubic metre,Rate relative to the volume of 1 cubic metre
+/mL,per millilitre,Rate relative to the volume of 1 millilitre
+/mg,per milligram,Rate relative to 1 milligram
+/min,per minute,Rate of time relative to 1 minute
+/mm,per millimetre,Rate relative to 1 millimetre
+/mmol{creat},per millimole of creatinine,Rate relative to 1 millimole of creatinine
+/mo,per month,Rate of time relative to one month
+/s,per second,Rate of time relative to 1 second
+/uL,per microlitre,Rate relative to 1 microlitre
+/wk,per week,Rate of time relative to 1 week
+/{OIF},per oil immersion field,Frequency of specific microscopic entities within the field of view of a microscope
+/{entity},per entity,Rate in relation to specific units
+10*12/L,trillion per litre,Expresses a rate of 1 trillion units in relation to a volume of one litre
+10*3,thousand,Numeric value
+10*3/L,thousand per litre,Rate of 1 thousand units relative to 1 litre
+10*3/mL,thousand per millilitre,Concentration of 1 thousand units in relation to volume of 1 millilitre
+10*3/uL,thousand per microlitre,Concentration of 1 thousand units in relation to volume of 1 microlitre
+10*3{RBCs},thousand red blood cells,Count of red blood cells
+10*3{copies}/mL,thousand copies per millilitre,Rate of 1 thousand copies relative to the volume of 1 milliltre
+10*4/uL,10 thousand per microlitre,Rate of 10 thousand units relative to the volume of  1 microlitre
+10*5,one hundred thousand,Numeric value
+10*6,million,Numeric value
+10*6.[CFU]/L,million colony forming unit per litre,Concentration of viable microorganisms in a liquid sample relative to one litre
+10*6.[iU],million international unit,International unit on the order of 1 million
+10*6/(24.h),million per 24 hour,1 million units relative to 24 hours
+10*6/L,million per litre,1 million units relative to 1 litre
+10*6/kg,million per kilogram,1 million units relative to 1 kilogram
+10*6/mL,million per millilitre,1 million units relative to 1 millitre
+10*6/uL,million per microlitre,1 million units per 1 microlitre
+10*8,100 million,Numeric value
+10*9/L,billion per litre,1 billion units relative to 1 litre
+10*9/mL,billion per millilitre,1 billion units relative to 1 microlitre
+10*9/uL,billion per microlitre,1 billion units relative to 1 microlitre
+10.L/(min.m2),10 litre per minute per square metre,10 litres relative to 1 minute relative to the are of 1 square metre
+10.L/min,10 litre per minute,Rate of 10 litres per 1 minute
+10.uN.s/(cm5.m2),10 micronewton second per centimetre to the fifth power per square metre,Dynamic viscosity 
+24.h,24 hour,1 day
+[CCID_50],50% cell culture infectious dose,Quantifies the infectivity of a virus
+A,ampere,Rate at which electric charge moves through a conductor
+[EID_50],50% embryo infectious dose,Quantifies the infectous does of a virus in embryos
+A/m,ampere per metre,Describes the magnetic field strength
+[TCID_50],50% tissue culture infectious dose,Quantifies the infectious does of a virus in a tissue culture
+[anti'Xa'U],anti factor Xa unit,Quantifies the activity of anticoagulant drugs
+Cel,degree Celsius,Measurement of temperature
+F,Farad,Unit of electrical capacitance
+Gy,Gray,SI unit of absorbed dose of ionizing radition
+H,Henry,SI unit of inductance 
+Hz,Hertz,SI unit of frequency
+J,joule,SI unit of energy
+J/L,joule per litre,Expresses the energy density of a substance 
+K,degree Kelvin,Measurement of temperature
+K/W,degree Kelvin per Watt,Quantifies how a material resists the flow of heat per unit of power
+L/(24.h),litre per 24 hour,Rate of volume over a 24 hour period
+L/(8.h),litre per 8 hour,Rate of volume over an 8 hour period
+L/(min.m2),litre per minute per square metre,Flow rate per unit area
+L/L,litre per litre,Ratio of 2 volumes 
+L/d,litre per day,Volume rate over 1 day
+L/h,litre per hour,Volume rate over 1 hour
+L/kg,litre per kilogram,Ratio of volume to mass
+L/min,litre per minute,Volume rate over 1 minute
+L/s,litre per second,Volume rate over 1 second
+L/s/s2,litre per second per square second,Rate of fluid flow acceleration
+Ms,megasecond,Second on the order of 10^6
+N,Newton,SI unit of force
+N.cm,Newton centimetre,Expresses torque
+N.s,Newton second,SI unit of impulse
+Ohm,Ohm,SI unit of electrical resistance
+Ohm.m,Ohm metre,SI unit of electrical resistivity
+Pa,Pascal,SI unit of pressure
+S,Siemens,SI units of electrical conductance
+Sv,Sievert,SI unit of dose equivalent
+T,Tesla,SI unit of magnetif flux density 
+Torr,Torr,Unit of pressure
+U,enzyme unit,Concentration of an enzyme in a reaction
+U/(10.g){feces},enzyme unit per 10 gram of faeces,Concentration of an enzyme in a fecal sample
+U/(12.h),enzyme unit per 12 hour,Rate of concentration of an enzyme in a reaction every 12 hours
+U/(2.h),enzyme unit per 2 hour,Rate of concentration of an enzyme in a reaction every 2 hours
+U/(24.h),enzyme unit per 24 hour,Rate of concentration of an enzyme in a reaction every 24 hours
+U/10,enzyme unit per 10,Enzyme concentration
+U/10*10,enzyme unit per 10 billion,Enzyme concentration
+U/10*10{cells},enzyme unit per 10 billion cells,Enzyme concentration relative to 10 billion cells
+U/10*12,enzyme unit per trillion,Enzyme concentration
+U/10*12{RBCs},enzyme unit per trillion red blood cells,Enzyme concentration
+U/10*6,enzyme unit per million,Enzyme concentration
+U/10*9,enzyme unit per billion,Enzyme concentration
+U/L,enzyme unit per litre,Enzyme concentration relative to 1 litre
+U/d,enzyme unit per day,Enzyme activity over a 24 hour period
+U/dL,enzyme unit per decilitre,Enzyme concentration
+U/g,enzyme unit per gram,Enzyme concentration
+U/g{Hb},enzyme unit per gram of hemoglobin,Enzyme concentration relative to 1 gram of hemoglobin
+U/g{creat},enzyme unit per gram of creatinine,Enzyme concentration relative to 1 gram of creatinine
+U/g{protein},enzyme unit per gram of protein,Enzyme concentratoin relative to 1 gram of protein
+U/h,enzyme unit per hour,Enzyme concentration 
+U/kg{Hb},enzyme unit per kilogram of hemoglobin,Enzyme concentration relative to 1 kilogram of hemoglobin
+U/mL,enzyme unit per millilitre,Enzyme concentration
+U/mL{RBCs},enzyme unit per millilitre of red blood cells,Enzyme concentration relative to 1 millilitre of red blood cells
+U/min,enzyme unit per minute,Enzyme concentration per minute
+U/mmol{creat},enzyme unit per millimole of creatinine,Enzyme concentration relative to one millimole of creatinine
+U/s,enzyme unit per second,Enzyme activity over a one second period
+U{25Cel}/L,enzyme unit per litre at 25 deg Celsius,Enzyme concentration
+U{37Cel}/L,enzyme unit per litre at 37 deg Celsius,Enzyme concentration
+V,volt,"SI unit of electrical potential difference, EMF, and voltage"
+Wb,Weber,SI unit of magnetic flux
+[APL'U],IgA anticardiolipin unit,Measurement of IgA antibodies
+[APL'U]/mL,IgA anticardiolipin unit per millilitre,Measurement of IgA antibodies relative to millilitre
+[AU],allergy unit,Related to allergy testing
+[CFU],colony forming unit,Quantifies the number of viable cells capable of forming under specific conditions
+[CFU]/L,colony forming unit per litre,Quantifies the concentration of viable microorganisms in a liquid sample
+[CFU]/mL,colony forming unit per millilitre,Quantifies the concentration of viable microorganisms in a liquid sample
+[Ch],French (catheter gauge),Size or diameter of medical devices
+[GPL'U],IgG anticardiolipin unit,Measurement of IgG class antibodies against cardiolipin
+[GPL'U]/mL,IgG anticardiolipin unit per millilitre,Concentration of IgG class antibodies per millilitre
+[HPF],high power field,Area or field of view observed under a microscope
+[hp_C],homeopathic potency of centesimal hahnemannian series,Common scale used to indicate the potency or dilution of homeopathic remedies
+[LPF],low power field,Area or field of view observed under a microscope at a lower magnifaction 
+[kp_C],homeopathic potency of centesimal korsakovian series,Potency or dilution of homeopathic remedies
+[MPL'U],IgM anticardiolipin unit,Refers to the measurement of IgM class antibodies
+[hp_X],homeopathic potency of decimal hahnemannian series,Potency or dilution of homeopathic remedies
+[MPL'U]/mL,IgM anticardiolipin unit per millilitre,Concentration of IgM antibodies against cardiolipin 
+[arb'U],arbitrary unit,Used in various scientific fields to express a quantity or measurement that is not expressed in a specific unit of measurement
+[kp_X],homeopathic potency of decimal korsakovian series,Potency or dilution of homeopathic remedies
+[arb'U]/mL,arbitrary unit per millilitre,Concentration of a substance in a liquid sample using arbitrary units 
+[hp_M],homeopathic potency of millesimal hahnemannian series,Potency or dilution of homeopathic remedies
+[bdsk'U],Bodansky unit,Describes the activity of enzyme serum glutamic oxaloacetic transaminase
+[kp_M],homeopathic potency of millesimal korsakovian series,Potency or dilution of homeopathic remedies
+[beth'U],Bethesda unit,Concentration of anti-coagulation antibodies
+[hp_Q],homeopathic potency of quintamillesimal hahnemannian series,Potency or dilution of homeopathic remedies
+[cin_i],cubic inch (international),Unit of volume
+[kp_Q],homeopathic potency of quintamillesimal korsakovian series,Potency or dilution of homeopathic remedies
+[degF],degree Fahrenheit,Measurement of temperature
+[dr_av],dram  (US and British),Measurement of volume
+[foz_us],fluid ounce (US),Measurement of volume
+[ft_i],foot (international),unit of length 
+[gal_us],gallon (US),Measurement of volume
+[iU]/(2.h),international unit per 2 hour,International unit rate of change over a 2 hour period
+[iU]/(24.h),international unit per 24 hour,International unit rate of change over a 24 hour period
+[iU]/10*9{RBCs},international unit per billion red blood cells,Concentration of certain substance in the blood
+[iU]/L,international unit per litre,Concentration of various substance in a liquid
+[iU]/L{37Cel},international unit per litre at 37 degrees Celsius,Concentration of various substance in a liquid
+[iU]/d,international unit per day,Concentration of various substances in a liquid
+[iU]/dL,international unit per decilitre,Concentration of various substances in a liquid
+[iU]/g,international unit per gram,Concentration of various substances in a liquid
+[iU]/g{Hb},international unit per gram of hemoglobin,Concentration of a factor in the blood relative to the amount of hemoglobin
+[iU]/h,international unit per hour,Rate of change of a substance within a specified period of one hour
+[iU]/kg/d,international unit per kilogram per day,Rate of a substance adminstered to an individual relative to body weight and duration 
+[iU]/mL,international unit per millilitre,Concentration of various substances in a liquid
+[iU]/mg{creat},international unit per milligram of creatinine,Concentration of various substances in urine
+[iU]/min,international unit per minute,Activity of substance over a period of 1 minute
+[in_i'H2O],inch (international) of water,Depth of water
+[in_i],inch (international),Unit of length 
+[IR],index of reactivity,Scale on which chemicals are ranked on reactivity
+[ka'U],King Armstrong unit,Amount of phosphate that releases 1 mg phenal from substrat at 37 degrees Celsius in 15 minutes
+[knk'U],Kunkel unit,Level of antibody production or activity
+[Lf],Limit of flocculation,Point at which colloidal particles begin to aggregate 
+[lb_av],pound (US and British),Measure of mass
+[mi_i],mile (international),Measure of distance
+[oz_av],ounce (US and British),Measure of mass
+[oz_tr],Troy ounce,Measure of mass
+[pH],pH,Scale on which acids and bases are classified
+[ppb],part per billion,Concentration of substance relative to 1 billion parts of a whole
+[ppm],part per million,Concentration of substance relative to 1 million parts of a whole
+[ppm]{v/v},part per million in volume per volume,Concentration of one substance in relation to one million parts of a whole relative to volume
+[ppth],part per thousand,Concentration of substance relative to 1 thousand parts of a whole
+[pptr],part per trillion,Concentration of substance relative to 1 trillion parts of a whole
+[psi],pound per square inch,Unit of pressure
+[pt_us],pint (US),Unit of volume
+[PNU],protein nitrogen unit,Protein content of milk
+[PFU],plaque forming units,Quantify the number of infectious viral particles present in a sample
+[qt_us],quart (US),Unit of volume
+[sft_i],square foot (international),Unit of area
+[sin_i],square inch (international),Unit of area
+[syd_i],square yard (international),Unit of area
+[tb'U],tuberculin unit,Potency of tuberculin 
+[tbs_us],tablespoon (US),Unit of volume
+[USP'U],United States Pharmacopeia unit,Potency of various pharmaceutical substances 
+[todd'U],Todd unit,One USP unit of vitamin D2 is equivalent to one International Unit (IU
+[tsp_us],teaspoon (US),Unit of volume
+[yd_i],yard (international),Unit of length
+a,year,Unit of time
+ag/{cells},attogram per cell,Amount of substance within a single cell
+atm,atmosphere,Unit of pressure
+bar,bar,Unit of pressure
+cL,centilitre,Unit of volume
+cP,centipoise,Unit of dynamic viscosity
+cSt,centistoke,Unit of kinetmatic viscosity
+cal,calorie,Unit of energy
+cg,centigram,Metric unit of mass equivalent to 1/100 of a gram
+cm,centimetre,Metric unit of length equivalent to 1/100 of a metre
+cm2,square centimetre,Unit of area
+cm2/s,square centimetre per second,Unit of kinetmatic viscosity
+cm[H2O],centimetre of water,Unit of pressure
+cm[H2O]/L/s,centimetre of water per litre per second,Used to measure the flow rate of a liquid
+cm[H2O]/s/m,centimetre of water per second per metre,Measure of flow resistance in a fluid over a distance
+cm[Hg],centimetre of mercury,Unit of pressure
+d,day,Unit of time
+dB,decibel,Expresses the intensity of power of waveforms
+dL,decilitre,Metric unit of volume equivalent to 1/10 of a litre
+daL/min,dekalitre per minute,Unit of flow rate used to measure the volume of a liquid
+daL/min/m2,dekalitre per minute per square metre,Unit of flow rate per unit area of a liquid
+deg,degree (plane angle),Unit of plane angle measurement
+deg/s,degree per second,Measurement of angular velocity
+dg,decigram,Metric unit of mass equivalent to 1/10 of a gram
+dm,decimetre,Metric unit of mass equivalent to 1/10 of a litre
+dm2/s2,square decimetre per square second,Unit of acceleration
+dyn.s/(cm.m2),dyne second per centimetre per square metre,"Unit of dynamic viscosity, a fluid's resistance to applied forces"
+dyn.s/cm,dyne second per centimetre,"Unit of dynamic viscosity, a fluid's resistance to applied forces"
+eV,electron Volt,Unit of energy used in atomic physics
+eq,equivalent,Amount of substance that can react or combine with another substance
+eq/L,equivalent per litre,Amount of equivalents of a chemical species in solution per liter of that solution
+eq/mL,equivalent per millilitre,Amount of equivalents of a chemical species in solution per millilitre of that solution
+eq/mmol,equivalent per millimole,Amount of equivalents of a chemical species in solution per mllimole of that solution
+eq/umol,equivalent per micromole,Amount of equivalents of a chemical species in solution per mlcromole of that solution
+erg,erg,Unit of energy
+fL,femtolitre,Unit of volume
+fg,femtogram,Unit of mass
+fm,femtometre,Unit of length
+fmol,femtomole,Unit to quantify very small amount of substance
+fmol/L,femtomole per litre,Unit of concentration
+fmol/g,femtomole per gram,Unit of concentration
+fmol/mL,femtomole per millilitre,Unit of concentration
+fmol/mg,femtomole per milligram,Unit of concentration
+[FEU],fibrinogen equivalent unit,Quantify the concentration of fibrinogen in blood
+fmol/mg{cyt_prot},femtomole per milligram of cytosol protein,Unit of concentration used to expresss the amount of particular substance in a sample of cytosol protein
+fmol/mg{prot},femtomole per milligram of protein,Unit of concentration used to express the amount of specific substance in a sample of protein
+g.m,gram metre,Unit torque
+g.m/{beat},gram metre per heart beat,Unit of torque per heart beat
+g/(100.g),gram per 100 gram,Percentage of one substance within another substance on a mass basis
+g/(12.h),gram per 12 hour,Measure of mass per 12 hours
+g/(24.h),gram per 24 hour,Measure of mass per 24 hours
+g/(3.d),gram per 3 days,Measure of mass per 23 days
+g/(4.h),gram per 4 hour,Measure of mass per4 hours
+g/(48.h),gram per 48 hour,Measure of mass per 48 hours
+g/(5.h),gram per 5 hour,Measure of mass per 5 hours
+g/(6.h),gram per 6 hour,Measure of mass per 6 hours
+g/(72.h),gram per 72 hour,Measure of mass per 72 hours
+g/(8.h){shift},gram per 8 hour shift,Measure of mass per 8 hour work shift
+g/L,gram per litre,Rate of mass per volume
+g/cm3,gram per cubic centimetre,Rate of mass per volume
+g/d,gram per day,Rate of mass per day
+g/dL,gram per decilitre,Rate of mass per
+g/g,gram per gram,Rate of mass per volume
+g/g{creat},gram per gram of creatinine,Unit of measurement used in clinical analyses and expresses the concentration of substances in urine relative to the concentration of creatine in the same urine sample
+g/g{globulin},gram per gram of globulin,Unit of concentration of a specific substance in a sample relative to the concentration of globulin in the same sample
+g/g{tissue},gram per gram of tissue,Concentration of a substance in a sample relative to the concentration of tissue in the same sample
+g/h,gram per hour,Measure of mass per hour
+g/h/m2,gram per hour per square metre,Rate of mass transfer per unit area over a specific time interval
+g/kg,gram per kilogram,Unit of measurement that expresses the concentration of a substance in a mixture
+g/kg/(8.h),gram per  kilogram per 8 hour,Rate of mass transfer over a specific time period mass relative to kilograms
+g/kg/(8.h){shift},gram per kilogram per 8 hour shift,Rate of mass transfer over a specific time period mass relative to kilograms
+g/kg/d,gram per kilogram per day,Rate of mass transfer over a specific time period mass relative to kilograms
+g/kg/h,gram per kilogram per hour,Rate of mass transfer over a specific time period mass relative to kilograms
+g/kg/min,gram per kilogram per minute,Rate of mass transfer over a specific time period mass relative to kilograms
+g/m2,gram per square metre,Mass per unit area
+g/mL,gram per millilitre,Unit of density
+g/mg,gram per milligram,Ratio of grams to milligrams
+g/min,gram per minute,Rate of mass relative to time
+g/mmol,gram per millimole,Molar mass
+g/mol{creat},gram per mole of creatinine,Mass relative to amount of creatinine
+g/{specimen},gram per specimen,Measure of mass
+g/{total_output},gram per total output,Measure of mass relative to the final results
+g/{total_weight},gram per total weight,Meaure of mass relative to the total sample mass
+g{Hb},gram of hemoglobin,Mass of hemoglobin
+g%,gram percent,Ratio of grams 
+g{creat},gram of creatinine,Mass of creatinine
+g{total_nit},gram of total nitrogen,Quantifies the amount of nitrogen contained within a sample
+g{total_prot},gram of total protein,Quantifies the amount of protein contained within a sample
+g{wet_tissue},gram of wet tissue,Quantifies the amount of wet tissue wihin a sample
+h,hour,Unit of time
+kL,kilolitre,Unit of volume
+kPa,kilopascal,Unit of pressure
+kU,kilo enzyme unit,Concentration of an enzyme in solution
+kU/L,kilo enzyme unit per litre,Concentration of an enzyme in solution relative to one litre
+kU/L{class},kilo enzyme unit per litre class,Concentration of enzymes present in one litre of solution
+kU/g,kilo enzyme unit per gram,Concentration of enzymes present in one gram of substance
+kU/mL,kilo enzyme unit per millilitre,Concentration of enzymes present in one millitre of solution
+k[iU]/L,kilo international unit per litre,Unit of concentration
+k[iU]/mL,kilo international unit per millilitre,Unit of concentration
+kat,katal,Unit of measurement for catalytic activity
+kat/L,katal per litre,Catalytic activity per litre
+kat/kg,katal per kilogram,Catalytic activity per kilogram
+kcal,kilocalorie,Unit of energy
+kcal/[oz_av],kilocalorie per ounce (US and British),Unit of energy per unit mass
+kcal/d,kilocalorie per day,Rate of energy expenditure per unit time
+kcal/h,kilocalorie per hour,Rate of energy expenditure per unit time
+kcal/kg/(24.h),kilocalorie per kilogram per 24 hour,Rate of energy expenditure per unit mass per unit time
+kg.m/s,kilogram metre per second,Measurement of momentum
+kg/(s.m2),kilogram per second per square metre,Rate of mass flow per unit area
+kg/L,kilogram per litre,Unit of density
+kg/h,kilogram per hour,Rate of mass transfer over a specific time period 
+kg/m2,kilogram per square metre,Unit of surface density
+kg/m3,kilogram per cubic metre,Unit of density
+kg/min,kilogram per minute,Rate of mass transfer over a specific time period 
+kg/mol,kilogram per mole,Expresses the molar mass of a substance
+kg/s,kilogram per second,Rate of mass transfer over a specific time period 
+km,kilometre,Unit of length
+ks,kilosecond,Unit of time
+lm,lumen,SI unit for luminous flux
+lm.m2,lumen square metre,Unit of measurment used to express the illumamincance or brightness level on a surface 
+m,metre,Unit of length
+m/s,metre per second,Expresses magnitude of velocity
+m/s2,metre per square second,Expresses magnitude of accelertation
+m2,square metre,Unit of area
+m2/s,square metre per second,Rate of change in area relative to unit time
+m3/s,cubic metre per second,Rate of change in volume relative to unit time
+mA,milliampere,Unit of electrical current equal to 1/1000 of an ampere
+mL/(10.h),millilitre per 10 hour,Measure of volume relative to time
+mL/(12.h),millilitre per 12 hour,Measure of volume relative to time
+mL/(2.h),millilitre per 2 hour,Measure of volume relative to time
+mL/(24.h),millilitre per 24 hour,Measure of volume relative to time
+mL/(4.h),millilitre per 4 hour,Measure of volume relative to time
+mL/(5.h),millilitre per 5 hour,Measure of volume relative to time
+mL/(6.h),millilitre per 6 hour,Measure of volume relative to time
+mL/(72.h),millilitre per 72 hour,Measure of volume relative to time
+mL/(8.h),millilitre per 8 hour,Measure of volume relative to time
+mL/(8.h)/kg,millilitre per 8 hour per kilogram,Express the rate of fluid infusion
+mL/[sin_i],millilitre per square inch (international),Volume relative to unit area
+mL/cm[H2O],millilitre per centimetre of water,Unit of measurement used to express the volume flow rate of a liquid
+mL/d,millilitre per day,Measure of volume relative to time
+mL/dL,millilitre per decilitre,Ratio of millilitres to decilitres
+mL/h,millilitre per hour,Measure of volume relative to time
+mL/kg,millilitre per kilogram,Ratio of volume to mass
+mL/kg/(8.h),millilitre per kilogram per 8 hour,Ratio of volume to mass relative to time
+mL/kg/d,millilitre per kilogram per day,Ratio of volume to mass relative to time
+mL/kg/h,millilitre per kilogram per hour,Ratio of volume to mass relative to time
+mL/kg/min,millilitre per kilogram per minute,Ratio of volume to mass relative to time
+mL/m2,millilitre per square metre,Ratio of volume to area
+mL/mbar,millilitre per millibar,Ratio of volume to pressure
+mL/min,millilitre per minute,Rate of volmue relative to time
+mL/min/m2,millilitre per minute per square metre,Rate of volume relative to time per unit area
+mL/min/{1.73_m2},millilitre per minute per 1.73 square metre,Unit of measure used in medical contexts to express a rate of filtration by the kidneys
+mL/mm,millilitre per millimetre,Volume to length ratio
+mL/s,millilitre per second,Expresses flow rate
+mL/{beat},millilitre per heart beat,Unit of volume relative to heart beat
+mL/{beat}/m2,millilitre per heart beat per  square metre,Stroke volume index 
+mL{fetal_RBCs},millilitre of fetal red blood cells,Volume of fetal red blood cells
+mPa,millipascal,Unit of pressure
+mPa.s,millipascal second,Unit of dynamic viscosity
+mU/L,milli enzyme unit per litre,Concentration of an enzyme in a solution 
+mU/g,milli  enzyme unit per gram,Concentration of an enzyme in a solution or substance
+mU/g{Hb},milli enzyme unit per gram of hemoglobin,Concentration of an enzyme in relation to the amount of hemoglobin present in a sample
+mU/g{prot},milli enzyme unit per gram of protein,Concentration of an enzyme in relation to the amount of protein present in a sample
+mU/mL,milli  enzyme unit per millilitre,Concentration of an enzyme in solution
+mU/mL/min,milli  enzyme unit per millilitre per minute,Concentration of an enzyme in solution relative to the time 
+mU/mg,milli enzyme unit per milligram,Concentration of an enzyme in solution
+mU/mg{creat},milli enzyme unit per milligram of creatinine,Concentration of an enzyme relative to the amount of creatine in a sample
+mU/mmol{RBCs},milli  enzyme unit per millimole of red blood cells,Concentration of an enzyme relative to the amount of red blood cells in a sample
+mU/mmol{creat},milli  enzyme unit per millimole of creatinine,Concentration of an enzyme relative to the amount of creatinine in a sample
+mV,millivolt,Unit of electrical potential difference
+m[iU]/L,milli-international unit per litre,Concentration of biologically active compounds in a liquid sample
+m[iU]/mL,milli -international unit per millilitre,Concentration of biologically active compounds in a liquid sample
+mbar,millibar,Unit of pressure
+mbar.s/L,millibar second per litre,Unit of viscosity
+mbar/L/s,millibar per litre per second,Rate of change of a pressure drop 
+meq/(2.h),milliequivalent per 2 hour,Concentration of ions in solution over time period
+meq/(24.h),milliequivalent per 24 hour,Concentration of ions in solution over time period
+meq/(8.h),milliequivalent per 8 hour,Concentration of ions in solution over time period
+meq/L,milliequivalent per litre,Concentration of ions in solution 
+meq/d,milliequivalent per day,Concentration of ions in solution over time period
+meq/dL,milliequivalent per decilitre,Concentration of ions in solution 
+meq/g,milliequivalent per gram,Concentration of ions relative to mass
+meq/g{creat},milliequivalent per gram of creatinine,Concentration of ions relative to the mass of creatinine
+meq/h,milliequivalent per hour,Concentration of ions in solution over time period
+meq/kg,milliequivalent per kilogram,Concentration of ions relative to mass
+meq/kg/h,milliequivalent per kilogram per hour,"Rate of administration, consumption, or change in concentration of ions in relation to a person's body weight over a one hour period"
+meq/m2,milliequivalent per square metre,Concentration of ions in a specific area
+meq/mL,milliequivalent per millilitre,Concentration of ions within a millitre
+meq/min,milliequivalent per minute,Rate of change in concentration of ions in a solution over a one-minute period
+meq/{specimen},milliequivalent per specimen,Concentration or quantity of ions in a single test specimen
+meq/{total_volume},milliequivalent per total volume,Concentration of ions in solution relative to the total volume of a sample
+mg/(10.h),milligram per 10 hour,Rate of change of a substance's mass
+mg/(12.h),milligram per 12 hour,Rate of change of a substance's mass
+mg/(2.h),milligram per 2 hour,Rate of change of a substance's mass
+mg/(24.h),milligram per 24 hour,Rate of change of a substance's mass
+mg/(6.h),milligram per 6 hour,Rate of change of a substance's mass
+mg/(72.h),milligram per 72 hour,Rate of change of a substance's mass
+mg/(8.h),milligram per 8 hour,Rate of change of a substance's mass
+mg/L,milligram per litre,Unit of concentration
+mg/L{RBCs},milligram per litre of red blood cells,Concentration of a substance in a sample of red blood cells
+mg/d,milligram per day,Rate of change of a substance's mass
+mg/d/{1.73_m2},milligram per day per 1.73 square metre,Rate of substance accumulation in a specified area over the course of a day
+mg/dL,milligram per decilitre,Unit of concentration
+mg/dL{RBCs},milligram per decilitre of red blood cells,Concentration of a substance in a sample of red blood cells
+mg/g,milligram per gram,Ratio of milligram to gram
+mg/g{creat},milligram per gram of creatinine,Ratio of milligrams of one substance relative to the mass of creatinine
+mg/g{dry_tissue},milligram per gram of dry tissue,Ratio of milligrams of one substance relative to the mass of dry tissue
+mg/g{feces},milligram per gram of feces,Ratio of milligrams of one substance relative to the mass of fecal matter
+mg/g{tissue},milligram per gram of tissue,Ratio of milligrams of one substance relative to the mass of tissue
+mg/g{wet_tissue},milligram per gram of wet tissue,Ratio of milligrams of one substance relative to the mass of wet tissue
+mg/h,milligram per hour,Rate of change of a substance's mass
+mg/kg/(8.h),milligram per kilogram per 8 hour,Ratio of masses rate of change
+mg/kg/d,milligram per kilogram per day,Ratio of masses rate of change
+mg/kg/h,milligram per kilogram per hour,Ratio of masses rate of change
+mg/kg/min,milligram per kilogram per minute,Ratio of masses rate of change
+mg/m3,milligram per cubic metre,Concentration of a substance in particulate media
+mg/mL,milligram per millilitre,Concentration of a substance in a liquid solution
+mg/mg,milligram per milligram,Ratio of masses 
+mg/mg{creat},milligram per milligram of creatinine,concentration or quantity of a substance relative to the amount of creatinine present in a sample
+mg/min,milligram per minute,Rate of change of a substance's mass
+mg/mmol,milligram per millimole,Molar mass
+mg/mmol{creat},milligram per millimole of creatinine,Concentration of mass relative to the amount of creatinine in the sample
+mg/wk,milligram per week,Rate of change of a substance's mass 
+mg/{collection},milligram per collection,Measurement of mass
+mg/{specimen},milligram per specimen,Measurement of mass
+mg/{total_output},milligram per total output,Measurement of mass
+mg/{total_volume},milligram per total volume,Measurement of mass
+mg{FEU}/L,milligram fibrinogen equivalent unit per litre,Concentration of fibrinogen in a liquid sample
+min,minute,Unit of time
+mm,millimetre,Unit of volume
+mm/h,millimetre per hour,Rate of change in volume
+mm/min,millimetre per minute,Rate of change in volume
+mm2,square millimetre,Unit of area
+mm[H2O],millimetre of water,Volume of water
+mm[Hg],millimetre of mercury,Height of a column of mercury supported by a specific pressure
+mmol/(12.h),millimole per 12 hour,Rate of change of a substance over a time period
+mmol/(2.h),millimole per 2 hour,Rate of change of a substance over a time period
+mmol/(24.h),millimole per 24 hour,Rate of change of a substance over a time period
+mmol/(5.h),millimole per 5 hour,Rate of change of a substance over a time period
+mmol/(6.h),millimole per 6 hour,Rate of change of a substance over a time period
+mmol/(8.h),millimole per 8 hour,Rate of change of a substance over a time period
+mmol/L,millimole per litre,Unit of concentration
+mmol/L{RBCs},millimole per litre of red blood cells,Unit of concentration
+mmol/d,millimole per day,Rate of concentration
+mmol/dL,millimole per decilitre,Concentration of various substances in a liquid
+mmol/g,millimole per gram,Unit of concentration 
+mmol/g{creat},millimole per gram of creatinine,Unit of concentration of mole of a substance relative to the amount of creatinine
+mmol/h,millimole per hour,Rate of concentration
+mmol/h/mg{Hb},millimole per hour per milligram of hemoglobin,Unit of measurement that expresses the rate at which a substance is either consumed or produced per unit of hemoglobin mass
+mmol/h/mg{prot},millimole per hour per milligram of protein,Rate at which a substance is either consumed or produce per unit of protein mass
+mmol/kg,millimole per kilogram,Unit of concentration
+mmol/kg/(8.h),millimole per kilogram per 8 hour,Rate of change in concentration of a substance 
+mmol/kg/d,millimole per kilogram per day,Rate of change in concentration of a substance 
+mmol/kg/h,millimole per kilogram per hour,Rate of change in concentration of a substance 
+mmol/kg/min,millimole per kilogram per minute,Rate of change in concentration of a substance 
+mmol/m2,millimole per square metre,Concentration of a substance in a certain area
+mmol/min,millimole per minute,Rate of change in concentration of a substance 
+mmol/mmol,millimole per millimole,Ratio of concentrations
+mmol/mmol{creat},millimole per millmole of creatinine,Ratio of one substance to the amount of creatinine in the sample
+mmol/mmol{urea},millimole per millimole of urea,Ratio of one substance to the amount of urea in a sample
+mmol/mol,millimole per mole,Ratio of the amount of one substance to the total amount of the entire mixture
+mmol/mol{creat},millimole per mole of creatinine,Ratio of one substance to the amount of creatinine in the sample
+mmol/s/L,millimole per second per litre,"Rate of change in the concentration of a substance in a liquid over time, relative to the volume of the liquid"
+mmol/{ejaculate},millimole per ejaculate,Concentration of substance in male's ejaculate
+mmol/{specimen},millimole per specimen,Concentration of substance per some specimen
+mmol/{total_vol},millimole per total volume,Unit of concentration
+mo,month,Unit of time
+mol/L,mole per litre,Molarity
+mol/kg,mole per kilogram,Molar mass
+mol/kg/s,mole per kilogram per second,Rate of change in molar mass
+mol/m3,mole per cubic metre,Unit of concentration
+mol/mL,mole per millilitre,Unit of concentration
+mol/mol,mole per mole,Ratio of moles
+mol/s,mole per second,Rate of change in moles
+mosm,milliosmole,Expresses the osmolarity of solution
+mosm/L,milliosmole per litre,Expresses the osmolarity of solution relative to it's volume
+mosm/kg,milliosmole per kilogram,Osmolarity of solution relative to it's mass
+ms,millisecond,Unit of time
+nL,nanolitre,Unit of volume
+nU/mL,nanoenzyme unit per millilitre,Activity of nanoenzyme in solution
+nU/{RBC},nanoenzyme unit per red blood cell,Activity of nanoenzyme relative to the red blood cells
+ng/(24.h),nanogram per 24 hour,Rate at which a substance is either produced or excreted from a system
+ng/(8.h),nanogram per 8 hour,Rate at which a substance is either produced or excreted from a system
+ng/10*6,nanogram per million,Rate at which a substance is either produced or excreted from a system
+ng/10*6{RBCs},nanogram per million red blood cells,Concentration or quantity of a substance in terms of nanograms per million red blood cells 
+ng/L,nanogram per litre,Concentration of a substance in a liquid solution
+ng/U,nanogram per enzyme unit,Amount of substance in nanograms per enzyme unit
+ng/d,nanogram per day,Rate at which a substance is either produced or excreted from a system
+ng/dL,nanogram per decilitre,Concentration of a substance in a liquid solution
+ng/g,nanogram per gram,Amount of dissolved substance in the liquid relative to the mass of the liquid
+ng/g{creat},nanogram per gram of creatinine,Concentration or quantity of a substance relative to the amount of creatinine in a sample
+ng/h,nanogram per hour,"Rate of production, comsuption, or administration over a time period"
+ng/kg,nanogram per kilogram,Concentration of a substance relative to the mass of the entire material
+ng/kg/(8.h),nanogram per kilogram per 8 hour,Rate of change of the concentration of a substance relative to the mass of the entire material
+ng/kg/h,nanogram per kilogram per hour,Rate of change of the concentration of a substance relative to the mass of the entire material
+ng/kg/min,nanogram per kilogram per minute,Rate of change of the concentration of a substance relative to the mass of the entire material
+ng/m2,nanogram per square metre,Concentration of a substance in a certain area
+ng/mL,nanogram per millliiter,Concentration of a substance in a liquid solution
+ng/mL/h,nanogram per millilitre per hour,Rate of change in concentration of a substance 
+ng/mL{RBCs},nanogram per millilitre of red blood cells,Express the concentration or quantity of a substance within red blood cells in a liquid sample
+ng/mg,nanogram per milligram,Concentration of a substance in a material relative to the mass of that material
+ng/mg/h,nanogram per milligram per hour,"Rate of production, comsuption, or administration over a time period"
+ng/mg{creat},nanogram per milligram of creatinine,Concentration of a substance in a urine 
+ng/mg{prot},nanogram per milligram of protein,Concentration of a substance in a protein sample
+ng/min,nanogram per minute,Rate of change of a substance in a system 
+ng/s,nanogram per second,Rate of change of a substance in a system 
+ng{FEU}/mL,nanogram fibrinogen equivalent unit per millilitre,Concentration of fibrinogen in a blood sample
+nkat,nanokatal,Unit for enzymatic activity
+nm,nanometre,Unit of length
+nm/s/L,nanometre per second per litre,Velocity of particles through a fluid
+nmol,nanomole,Quantity of a substance 
+nmol/(24.h),nanomole per 24 hour,Rate of change of the quantity of the substance
+nmol/L,nanomole per litre,Molarity
+nmol/L/mmol{creat},nanomole per litre per millimole of creatinine,Concentration of a specific substance in urine adjusted for the concentration of the creatinine in the sample
+nmol/L{RBCs},nanomole per litre of red blood cells,Concentration of a specific substance within red blood cells
+nmol/d,nanomole per day,Rate of change of a substance in a system 
+nmol/dL,nanomole per decilitre,Molarity
+nmol/dL{GF},nanomole per decilitre of glomerular filtrate,Concentration of a particular substance in nanomoles per deciliter of the glomerular filtrate
+nmol/g,nanomole per gram,"Concentration of a substance in a sample, typically on a mass basis"
+nmol/g{creat},nanomole per gram of creatinine,"Concentration of a specific substance in urine or other biological samples, normalized for the concentration of creatinine in the same sample"
+nmol/g{dry_wt},nanomole per gram of dry weight,Concentration of a substance in a sample normalized for the dry weight of the sample
+nmol/h/L,nanomole per hour per litre,Rate of change of a substance in a system 
+nmol/h/mg{prot},nanomole per hour per milligram of protein,Rate of change of an enzymatic reaction 
+nmol/m/mg{prot},nanomole per metre per milligram of protein,"Rate of change of a substance within a biological system, normalized by both the amount of protein in that system and the distance over which it occurs"
+nmol/mL,nanomole per millilitre,Molarity
+nmol/mL/h,nanomole per millilitre per hour,Rate of change in molarity
+nmol/mL/min,nanomole per millilitre per minute,Rate of change in molarity
+nmol/mg,nanomole per milligram,Concentration of a substance in a sample
+nmol/mg/h,nanomole per milligram per hour,Rate of change in concentration of a substance in a sample 
+nmol/mg{creat},nanomole per milligram of creatinine,Concentration of a substance in a sample normalized for the concentration of creatinine in the sample
+nmol/mg{prot},nanomole per milligram of protein,Concentration of a substance in a sample normalized for the amount of protein in the sample
+nmol/mg{prot}/h,nanomole per milligram of protein per hour,"Rate of change of a substance within a biological system, normalized by mass of protein and time"
+nmol/min,nanomole per minute,Rate of change of a substance in a system 
+nmol/min/10*6{cells},nanomole per minute per million cells,Rate of change of a process normalized by the number of cells involved
+nmol/min/mL,nanomole per minute per millilitre,"Rate of change of a process in a liquid solution over the course of one minute, normalized by the volume of the liquid"
+nmol/min/mg{Hb},nanomole per minute per milligram of hemoglobin,Rate of change of a process normailzed by the amount of hemoglobin in the sample
+nmol/min/mg{prot},nanomole per minute per milligram of protein,Rate of change of a process normalized by the amount of protein in a biological sample
+nmol/mmol,nanomole per millimole,Ratio of quantities
+nmol/mmol{creat},nanomole per millimole of creatinine,Concentration of a specific substance in urine
+nmol/mol,nanomole per mole,Represents very small ratio or proportion of two quantities
+nmol/nmol,nanomole per nanomole,Ratio of quantities
+nmol/s,nanomole per second,Rate of change of quantity
+nmol/s/L,nanomole per second per litre,Rate of change of quantity normalized by the volume of the system
+nmol/umol{creat},nanomole per micromole  of creatinine,Ratio of one quantity to another quantity of creatinine
+nmol{ATP},nanomole of ATP,One billionth of a mole of ATP
+nmol{BCE},nanomole bone collagen equivalent,One billionth of a mole of bone collagen equivalent
+nmol{BCE}/L,nanomole bone collagen equivalent per litre,One billionth of a mole of bone collagen equivalent relative to volume
+ns,nanosecond,Unit of time
+osm,osmole,Quantifies the number of particles that contribute to the osmotic pressure in a solution
+osm/L,osmole per litre,Osmotically active particles in one litre of solution
+osm/kg,osmole per kilogram,Osmotically active particles in one kilogram of substance
+pA,picoampere,One trillionth of an ampere
+pL,picolitre,One trillionth of a litre
+pT,picotesla,One trillionth of a tesla
+pg/L,picogram per litre,Concentration of a substance in a liquid
+pg/dL,picogram per decilitre,Concentration of a substance in a liquid 
+pg/mL,picogram per millilitre,Concentration of a substance in a liquid 
+pg/mg,picogram per milligram,Concentration of a substance in a sample 
+pg/mg{creat},picogram per milligram of creatinine,Concentration of a substance in a sample normalized for the concentration of creatinine in the sample
+pg/mm,picogram per millimetre,Linear density
+pg/{RBC},picogram per red blood cell,Concentration of a specific substance in each individual red blood cell
+pg/{cells},picogram per cell,Mass of substance in each cell
+pkat,picokatal,Unit of measurement for catalytic activity
+pm,picometre,Unit of length
+pmol,picomole,Unit of concentration
+pmol/(24.h),picomole per 24 hour,Rate of change in concentration of a substance 
+pmol/L,picomole per litre,Molarity
+pmol/d,picomole per day,Rate of change of a substance in a system 
+pmol/dL,picomole per decilitre,Molarity
+pmol/g,picomole per gram,Concentration of a substance in a sample relative to the mass of the sample
+pmol/h/mL,picomole per hour per millilitre,Rate of change of a substance in a liquid solution over the course of an hour
+pmol/h/mg{prot},picomole per hour per milligram of protein,Rate of change of a process normailzed by the amount of protein in a sample
+pmol/mL,picomole per millilitre,Molarity
+pmol/mg{prot},picomole per milligram of protein,Rate of change of a substance in a sample of protein
+pmol/min,picomole per minute,Rate of change of a substance in a system 
+pmol/min/mg{prot},picomole per minute per milligram of protein,Rate of change of a biochemical process typically an enzymatic reaction normalized by the amount of protein in a biological sample
+pmol/mmol{creat},picomole per millimole of creatinine,Concentration of a specific substance in a biological sample normalized by the amount of creatinine in the sample
+pmol/umol,picomole per micromole,Ratio of concentrations
+pmol/umol{creat},picomole per micromole of creatinine,Ratio of concentrations
+pmol/{RBC},picomole per red blood cell,Concentration of substance within individual red blood cells
+ps,picosecond,Unit of time
+s,second,Unit of time
+s/{control},second per control,Unit of time 
+t,metric ton,Unit of mass
+uL/(2.h),microlitre per 2 hour,Rate of fluid flow
+uL/h,microlitre per hour,Rate of fluid flow
+uOhm,microOhm,Unit of electrical resistance
+uU/L,micro enzyme unit per litre,Concentration of an enzyme in a solution 
+uU/g,micro enzyme unit per gram,Concentration of an enzyme in a sample
+uU/mL,micro enzyme unit per millilitre,Concentration of an enzyme in a solution 
+uV,microvolt,Unit of electrical potential difference
+u[iU],micro international unit,Potency of biological substances
+u[iU]/L,micro international unit per litre,Concentration of biological sustance in a liquid
+u[iU]/mL,micro international unit per millilitre,Concentration of biological sustance in a liquid
+ueq,microequivalent,Quantity of an ion group in solution or chemical reaction
+ueq/L,microequivalent per litre,Quantity of an ion group in solution or chemical reaction
+ueq/mL,microequivalent per millilitre,Quantity of an ion group in solution or chemical reaction
+ug/(100.g),microgram per 100 gram,Concentration of a substance in a sample
+ug/(24.h),microgram per 24 hour,Rate of change of mass
+ug/(8.h),microgram per 8 hour,Rate of change of mass
+ug/L,microgram per litre,Measure of density
+ug/L/(24.h),microgram per litre per 24 hour,Rate of change of a substance in a liquid solution
+ug/L{RBCs},microgram per litre of red blood cells,Mass of substance relative to one litre of red blood cells
+ug/[sft_i],microgram per square foot (international),Mass relative to area
+ug/d,microgram per day,Rate of change of mass
+ug/dL,microgram per decilitre,Measure of density
+ug/dL{RBCs},microgram per decilitre of red blood cells,Mass of substance relative to volume of red blood cells
+ug/g,microgram per gram,Concentration of a substance in a sample 
+ug/g{Hb},microgram per gram of hemoglobin,Concentration of a substance in a sample relative to the mass of hemoglobin
+ug/g{creat},microgram per gram of creatinine,Concentration of a substance in a sample relative to the amount of creatinine
+ug/g{dry_tissue},microgram per gram of dry tissue,Concentration of a substance in a sample relative to the amount of dry tissue
+ug/g{dry_wt},microgram per gram of dry weight,Concentration of a substance in a sample relative to the amount of dry weight
+ug/g{feces},microgram  per gram of feces,Concentration of a substance in a sample relative to the mass of feces
+ug/g{hair},microgram per gram of hair,Concentration of a substance in a sample relative to the mass of hair
+ug/g{tissue},microgram per gram of tissue,Concentration of a substance in a sample relative to the mass of tissue
+ug/h,microgram per hour,Rate of change of mass
+ug/kg/(8.h),microgram per kilogram per 8 hour,Rate of change of mass
+ug/kg/d,microgram per kilogram per day,Rate of change of mass
+ug/kg/h,microgram per kilogram per hour,Rate of change of mass
+ug/kg/min,microgram per kilogram per minute,Rate of change 
+ug/m3,microgram per cubic metre,Concentration of a substance in the air
+ug/mL,microgram per millilitre,Concentration of a substance in a liquid solution
+ug/mL{class},microgram per millilitre class,
+ug/mL{eqv},microgram per millilitre equivalent,
+ug/mg,microgram per milligram,Ratio of masses
+ug/mg{creat},microgram per milligram of creatinine,Ratio of mass relative to the mass of creatinine within the sample
+ug/min,microgram per minute,Rate of change of mass
+ug/mmol,microgram per millimole,Molar mass
+ug/mmol{creat},microgram per millimole of creatinine,Ratio of mass to mircomoles of creatinine
+ug/ng,microgram per nanogram,Ratio of masses
+ug/{specimen},microgram per specimen,Mass of a substance per specimen
+ug{FEU}/mL,microgram fibrinogen equivalent unit per millilitre,Fibrinogen concentrations in the blood
+ukat,microkatal,Unit of enzymatic activity
+um,micrometre,Unit of length
+um/s,microns per second,Speed
+umol/(2.h),micromole per 2 hour,Rate of change of micromoles
+umol/(24.h),micromole per 24 hour,Rate of change of micromoles
+umol/(8.h),micromole per 8 hour,Rate of change of micromoles
+umol/L,micromole per litre,Molarity
+umol/L/h,micromole per litre per hour,Rate of change of molarity
+umol/L{RBCs},micromole per litre of red blood cells,Concentration of a substance relative to the amount of red blood cells in the sample
+umol/d,micromole per day,Rate of change of micromoles
+umol/dL,micromole per decilitre,Molarity
+umol/dL{GF},micromole per decilitre of glomerular filtrate,Concentration of a specific substance in the glomerular filtrate
+umol/g,micromole per gram,Moles relative to the mass of the sample
+umol/g{Hb},micromole per gram of hemoglobin,Concentration of moles relative to the amount of hemoglobin in the sample
+umol/g{creat},micromole per gram of creatinine,Concentration of a substance in urine
+umol/h,micromole per hour,Rate of change in the concentration of a substance 
+umol/kg,micromole per kilogram,Concentration of moles relative to the mass of the sample
+umol/kg{feces},micromole per kilogram of feces,Concentration of moles relative to the mass of the fecal sample
+umol/mL,micromole per millilitre,Molarity
+umol/mL/min,micromole per millilitre per minute,Rate of change of molarity
+umol/mg,micromole per milligram,Ratio of two different mass quantities
+umol/mg{creat},micromole per milligram of creatinine,Concentration of a substance in urine while normalizing for variations in urine dilution based on creatinine levels
+umol/min,micromole per minute,Rate of change of micromoles
+umol/min/L,micromole per minute per litre,Rate of change of micromoles relative to volume
+umol/min/g,micromole per minute per gram,Rate of change of micromoles relative to mass
+umol/min/g{mucosa},micromole per minute per gram of mucosa,"Rate of a metabolic or enzymatic process involving a substance in a specific type of tissue, often mucosal tissue"
+umol/min/g{prot},micromole per minute per gram of protein,Express the rate of a metabolic or enzymatic process normalized by the amount of protein in a tissue or solution
+umol/mmol,micromole per millimole,Relationship between two quantities of a substance interms of molar ratios
+umol/mmol{creat},micromole per millimole of creatinine,Concentration of a specific substance in urine normalized by dilution based on creatine levels
+umol/mol,micromole per mole,Relationship between two quantities of a substance interms of molar ratios
+umol/mol{Hb},micromole per mole of hemoglobin,Ratio of a substance to hemoglobin based on molar ratios
+umol/mol{creat},micromole per mole of creatinine,Ratio of a substance to hemoglobin based on molar ratios
+umol/umol,micromole per micromole,Molar ratios of two substances
+umol/umol{creat},micromole per micromole of creatinine,Molar ratio of a substance and creatinine in the sample
+umol{BCE}/mol,micromole bone collagen equivalent per mole,Molar ratio of bone collagen and a substance
+us,microsecond,Unit of time
+wk,week,Unit of time
+{#},number,Numeric unit
+{#}/L,number per litre,Numeric unit relative to volume
+{#}/[HPF],number per high power field,Count of specific objects in a sample observed under a microscope at high magnification
+{#}/[LPF],number per low power field,Count of specific objects in a sample observed under a microscope at low magnification
+{#}/mL,number per millilitre,Count of specific objects in a sample in a liquid
+{#}/min,number per minute,Rate of change  of specific objects in a sample 
+{#}/uL,number per microlitre,Count of specific objects relative to one microlitre
+{#}/{platelet},molecule per platelet,Concentration of specific molecules or substances within platelets
+{AHF'U},American Hospital Formulary unit,Used for the standardization of reporting the strength of a medication
+{APS'U},IgA antiphosphatidylserine unit,Unit in the context of laboratory testing for antiphospholipid antibodies
+{ARU},aspirin response unit,Measures how well aspirin affects the platelet activity in a patient's blood
+{CAE'U},complement activity enzyme unit,Quantifies the enzymatic activity of complement proteins
+{CAG_repeats},CAG trinucleotide repeats,Type of repetitive DNA sequence 
+{CH100'U},complement CH100 unit,Historical unit of measurement used to quantify the hemolytic activity of the complement system in the blood
+{CPM},counts per minute,Count of specific object relative to one minute
+{CPM}/10*3{cells},counts per minute per thousand cells,Count of specific object relative to one minute relative to 1 thousand cells
+{EIA'U},EIA unit,"Concentration of substances such as antigens, or antibodies in a given sample"
+{EIA'U}/U,EIA unit per enzyme unit,"Concentration of substances such as antigens, or antibodies in a given sample relative to the activity of enzymes"
+{EIA_index},EIA index,"Quantifies the results of immunoassays, particularly when measuring antibodies"
+{EIA_titer},EIA titer,Concentration of antibodies in a patients blood
+{ELISA'U},ELISA unit,"Detects specific proteins, or antibodies in biological samples"
+{EV},EIA value,Numerical result obtained from an Enzyme Immunoassay
+[ELU],ELISA unit,Quantifies the concentration of a specific analyte in a biological sample
+{Ehrlich'U},Ehrlich unit,Concentration of a particular substance in a sample
+[EU],Ehrlich unit,Concentration of a particular substance in a sample
+{Ehrlich'U}/(2.h),Ehrlich unit per 2 hour,Rate of change of the concentration of a particular substance over a two hour period
+{Ehrlich'U}/100.g,Ehrlich unit per 100 gram,Concentration of a particular substance in a sample relative to mass
+{Ehrlich'U}/d,Ehrlich unit per day,Rate of change of the concentration of a particular substance over a one day period
+{Ehrlich'U}/dL,Ehrlich unit per decilitre,Enzyme activity per deciliter of a solution
+{FIU},fluorescent intensity unit,Fluorescent intensity in a fluorescence-based experiment
+[FFU],focus forming units,Quantifies the infectious titer of a virus 
+{GAA_repeats},GAA trinucleotide repeats,Type of repetitive DNA sequence 
+{GPS'U},IgG antiphosphatidylserine unit,Measures the amount of IgG antibodies in a sample
+{Globules}/[HPF],globules (drops)  per high power field,Quantifies the amount of drops in a sample under high power microscope
+{HA_titer},influenza hemagglutination titer,Measure the ability of the influenza viruses to agglutinate red blood cells
+{IFA_index},immunofluorescence assay index,Laboratory technique used to detect and quantify specific antibodies or antigens in a biological sample
+{IFA_titer},Immunofluorescence assay titer,Represents the highest dilution of a patient's serum that still produces a specific fluorescent signal in an experiment
+{INR},international normalized ratio,A standardized measurement used to evaluate the clotting tendency of a patient's blood and to monitor the effects of anticoagulant medications
+{ISR},immune status ratio,Assesses immune status 
+{ImmuneComplex'U},immune complex unit,Quantifies the amount of immune complexes in a biological sample
+{KCT'U},kaolin clotting time,Assesses the intrinsic coagulation pathway of the blood clotting process
+{KRONU'U}/mL,Kronus unit per millilitre,Used in the context of laboratory tests or immunoassays
+{Log_IU},log (base 10) international unit,Refers to logarithimic scale used to express the international unit on a base 10 scale
+{Log_IU}/mL,log (base 10) international unit per millilitre,Refers to logarithimic scale used to express measurement on a base 10 scale relative to volume
+{Log_copies}/mL,log (base 10) copies per millilitre,Refers to logarithimic scale used to express measurement on a base 10 scale relative to volume
+{Log},log (base 10),Refers to logarithimic scale used to express measurement on a base 10 scale
+{Lyme_index_value},Lyme index value,Quantifies Lyme disease
+{M.o.M},multiple of the median,A statistical concept often used in medical screening and diagnostic tests 
+{MPS'U},IgM antiphosphatidylserine unit,Measurement used for antiphospholipid antibodies 
+{MPS'U}/mL,IgM antiphosphatidylserine unit per millilitre,Measurement used for antiphospholipid antibodies relative to volume
+{OD_unit},optical density unit,Unit used in spectrophotometry to quantify the optical density or absorbance of light by a sample
+{RBC}/uL,red blood cell per microlitre,Count of red blood cells per unit of volume 
+{Rubella_virus},rubella virus,Type of virus
+{STDV},standard deviation,Statistical measure of the amount of variation or dispersion in a set of data points 
+[S],Svedberg unit,Measure the rate at which particles sediment in a centrifugal field 
+{TSI_index},thyroid-stimulating immunoglobulin index,Laboratory test used in the diagnosis and monitoring of autoimmune thyroid diseases
+{WBCs},white blood cells,Type of cell
+{absorbance},absorbance,Quantifies the amount of light that a substance absorbs at a specific wavelength
+{activity},activity,Describes the expenditure of energy of some organism
+[Amb'a'1'U],allergen unit for Ambrosia artemisiifolia,Allergen unit
+{asnecessary},as necessary,Indicates that something shold be done only when it is needed
+{beats}/min,heart beats per minute,Quantifies the amount of types a heart will contract and relax in one minute
+{binding_index},binding index,Numerical value that quantifies affinity of binding between two molecules
+[BAU],bioequivalent allergen unit,Allergen unit
+{cells},cells,Basic structural and functional units of all living organisms
+{cells}/[HPF],cells per high power field,Basic structural and functional units of all living organisms under a high power microscope
+{cells}/uL,cells per microlitre,Basic structural and functional units of all living organisms relative to volume
+{clock_time},clock time e.g 12:30PM,Measure of time
+{copies},copies,Reproductions of an original item
+{copies}/mL,copies per millilitre,Reproductions of an original item relative to volume
+{copies}/ug,copies per microgram,Reproductions of an original item relative to mass
+{count},count,Determines the number of items
+{cyclical},cyclical,A system occurs in an organized and repetative fashion
+[D'ag'U],D-antigen unit,Quantifies the concentration of the D-antigen 
+10.a,decade,Unit of time
+{delta_OD},change in (delta) optical density,Difference in optical density at two different points
+{dilution},dilution,Decrease in concentration of a substance
+{fraction},fraction,Portion of a whole
+{genomes}/mL,genomes per millilitre,Concentration of genetic material in a liquid sample
+{index_val},index value,Represents a numerical measurement or score
+{minidrop}/min,minidrop per minute,Used in the medical field to quantify administration of intravenous fluids
+{minidrop}/s,minidrop per second,Used in the medical field to quantify administration of intravenous fluids
+{mm/dd/yyyy},month-day-year,An order to record a date in time
+{mutation},mutation,A genetic phenomenon
+{percentile},percentile,Statistical measure used to indicate the relaive rank of a particular value within a dataset
+{phenotype},phenotype,Observable physical and functional characteristics of an organism
+{ratio},ratio,Comparison of two quantities
+{rel_saturation},relative saturation,Typically refers to the degree to which a substance is present in a mixture compared to is maximum possible concentration at a given condition
+{s_co_ratio},signal to cutoff ratio,Numerical value used in diagnostic testing
+{saturation},saturation,Describes the state of being at maximum capacity
+[smgy'U],Somogyi unit,Assesses the activity of an enzyme called amylase
+{shift},shift,Vefers to change or adjustment
+{spermatozoa}/mL,spermatozoa per millilitre,Concentration of sperm in a liquid sample relative to volume
+{titer},titer,Concentration or potency of a substance in a biological sample
+{total},total,Describes the sum of something
+{trimester},trimester,Unit of time
+M[iU]/L,mega-international unit per litre,Used to express the concentration of a substance or activity level in a liquid sample
+M[iU]/mL,mega-international unit per millilitre,Used to express the concentration of a substance or activity level in a liquid sample
+[arb'U]/L,arbitrary unit per litre,Measurement relative to volume
+cm3,cubic centimetre,Unit of volume
+g/cm2,grams per square centimetre,Mass relative to area
+g/uL,grams per microlitre,Mass relative to volume
+mL/kg/(12.h),millilitres per kilogram per 12 hour,Measurement used in medical contexts to express the rate at which a medication is administered to a patient over a 12 hour period
+mL/min/L,millilitre per minute per litre,Rate of fluid volume passing through a unit volume of medium per minute
+mL/mm3,mililitre per cubic millimetre,Unit of measurement used to express volume density
+mg/min/{1.73_m2},milligram per minute per 1.73 square metre,Used in the context of medical measurements to express the rate of substance clearance 
+mg/uL,milligram per microlitre,Unit of measurement used to express the concentration or density of a substance in a liquid
+mm/(2.h),millimetre per 2 hour,Rate of change in distance over time
+mm/L,millimetre per litre,Density of a substance in a liquid
+mm3,cubic millimetre,Unit of volume
+mmol/mL,millimole per millilitre,Molarity
+ng/nL,nanogram per nanolitre,Density of a substance in a liquid
+nkat/L,nanokatal per litre,Concentration or activity of an enzyme in a liquid
+ukat/L,microkatal per litre,Concentration or activity of an enzyme in a liquid
+um3,cubic micrometre,Unit of volume
+umol/s,micromole per second,Rate of change in quantity of moles 
+{cells}/L,cells per litre,Quantity of cells relative to volume
+{cells}/cm3,cells per cubic centimetre,Quantity of cells relative to volume
+{cells}/mL,cells per millilitre,Quantity of cells relative to volume
+{cells}/mm,cells per millimetre,Quantity of cells relative to volume
+{cells}/mm3,cells per cubic millimetre,Quantity of cells relative to volume
+10*3/mm3,thousand per cubic millimetre,One thousand of a specific object relative to volume
+10*2/uL,hundred per microlitre,One hundred of a specific object relative to volume
+10*4/mm3,10 thousand per cubic millimetre,Ten thousand of a specific object relative to volume
+ug/uL,microgram per microlitre,Density of a substance in a liquid
+uL/mL,microlitre per millilitre,Ratio of volumes
+/(250.mL),per 250 millilitre,Comparison to volume
+/mm3,per cubic millimetre,Comparison to volume
+/nL,per nanolitre,Comparison to volume
+/pL,per picolitre,Comparison to volume
+[beth'U]/mL,Bethesda unit per millilitre,Used in the field of clinical immunology to express the concentration of specific antibodies in a given volume
+{breaths},breaths,Act of inhaling and exhaling air
+{breaths}/min,breaths per minute,Rate in inhaling and exhaling air
+{cells}/nL,cells per nanolitre,Used to express the concentration or density of cells
+{vol}/{vol},volume per volume,Ratio of volumes
+10*12/mm3,trillion per cubic millimetre,One trillion of an object relative to volume
+10*12/uL,trillion per cubic microlitre,Density of a substance in a given volume
+10*2,hundred,Numeric value
+10*3/(250.mL),thousand per 250 millilitre,Concentration unit 
+10*3/mol,thousand per mole,Numeric value relative to one mole
+10*4,10 thousand,Numeric value
+10*4/(250.mL),10 thousand per 250 millilitre,Numeric value relative to volume
+10*4/L,10 thousand per litre,Numeric value relative to volume
+10*4{cells}/uL,10 thousand cells per microlitre,Numeric value of cells relative to volume
+10*6/mm3,million per cubic millimetre,Numeric value relative to volume
+10*6/mol/L,million per mole per litre,Numeric value relative to volume and one mole
+10*9,billion,Numeric unit
+10*9/mm3,billion per cubic millimetre,Numeric value relative to volume
+g/(100.mL),gram per 100 millilitre,Density of a substance in a given volume
+m[iU],milli-international unit,Concentration or activity of certain substances in the blood
+m3,cubic metre,Unit of volume
+mg/(100.mL),milligram per 100 millilitre,Density of a substance in a given volume
+U/mm3,enzyme unit per cubic millimetre,Measure of enzymes relative to volume
+umol/L/s,micromole per litre per second,Rate of change of a substance in a liquid over time
