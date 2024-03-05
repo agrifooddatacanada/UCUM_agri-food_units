@@ -24,3 +24,7 @@ As UCUM is a set of rules for writing an infinite set of units, Agri-food Data C
 # Suggest a unit
 
 If you would like to see a unit in this table that we don't currently support, raise an issue here in GitHub or [contact us at Agri-food Data Canada](https://agrifooddatacanada.ca/contact-us/).
+
+# Development Status
+
+This data is created with support by [Agri-food Data Canada](https://agrifooddatacanada.ca/), funded by [CFREF](https://www.cfref-apogee.gc.ca/) through the [Food from Thought grant](https://foodfromthought.ca/) held at the [University of Guelph](https://www.uoguelph.ca/). Currently, we do not provide any warranty of any kind regarding the accuracy, security, completeness or reliability of this data or any of its parts.
