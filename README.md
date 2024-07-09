@@ -1,7 +1,7 @@
 # UCUM agri-food units
 A table of [Unified Code for Units of Measure (UCUM)](https://ucum.org/) units commonly used in agri-food research which helps with data documentation and interoperability.
 
-The Unified Code for Units of Measure (UCUM) is a system of codes for unambiguously representing measurement units. For example, to be precise, you would use the unit term `har` for hectare, or `[acr_us]` or `Cel` for degrees celcius. All of these terms are unique, standardized, and defined according to UCUM. They are usable by both machines and humans.
+The Unified Code for Units of Measure (UCUM) is a system of codes for unambiguously representing measurement units. For example, to be precise, you would use the unit term `har` for hectare, or `[acr_us]` for american survey acre, or `Cel` for degrees celcius. All of these terms are unique, standardized, and defined according to UCUM. They are usable by both machines and humans.
 
 # The need for standardization in agri-food units
 
