@@ -19,7 +19,7 @@ The adoption of UCUM aligns with the FAIR principles, that data should be Findab
 
 # A table of common agri-food UCUM terms
 
-As UCUM is a set of rules for writing an infinite set of units, Agri-food Data Canada has created a [list of ones commonly used in agri-food research](UCUM_ADC_current.csv). This list can be used by software as a lookup table for valid units with descriptions. Agri-food Data Canada list is built upon the [Commonly Used UCUM Codes for Healthcare Units](https://download.hl7.de/documents/ucum/ucumdata.html)
+As UCUM is a set of rules for writing an infinite set of units, Agri-food Data Canada has created a [list of ones commonly used in agri-food research](UCUM_ADC_en_current.csv). This list can be used by software as a lookup table for valid units with descriptions. Agri-food Data Canada list is built upon the [Commonly Used UCUM Codes for Healthcare Units](https://download.hl7.de/documents/ucum/ucumdata.html)
 
 # Suggest a unit
 
